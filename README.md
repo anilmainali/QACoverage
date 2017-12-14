@@ -20,6 +20,10 @@ You have an option of Hosting in the cloud or Hosting on your server.
 
 ## Contact Information: https://www.qacoverage.com/contact-us/
 
+## For Demo request: 
+Navigate to this page https://www.qacoverage.com/qacoverage-request-a-demo/ and fill out the form.
+
+
 
 
 
