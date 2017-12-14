@@ -6,3 +6,5 @@ Getting started With QA Coverage
 ## Features
 
 - Requirements Module
+- Test Design Module
+
