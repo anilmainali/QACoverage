@@ -12,5 +12,9 @@ Getting started With QA Coverage
 - Agile Module
 - Reporting Module
 
+## Pricing : https://www.qacoverage.com/pricing/
+
+
+
 
 
