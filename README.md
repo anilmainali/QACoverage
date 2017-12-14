@@ -9,5 +9,8 @@ Getting started With QA Coverage
 - Test Design Module
 - Test Execution Module
 - Ticket Module
+- Agile Module
+- Reporting Module
+
 
 
