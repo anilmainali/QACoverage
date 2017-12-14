@@ -18,6 +18,7 @@ Getting started With QA Coverage
 
 You have an option of Hosting in the cloud or Hosting on your server.
 
+## Contact Information: https://www.qacoverage.com/contact-us/
 
 
 
