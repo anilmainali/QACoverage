@@ -24,6 +24,6 @@ You have an option of Hosting in the cloud or Hosting on your server.
 Navigate to this page https://www.qacoverage.com/qacoverage-request-a-demo/ and fill out the form.
 
 
-
+## Free Trial: https://www.qacoverage.com/cloud-trial/
 
 
