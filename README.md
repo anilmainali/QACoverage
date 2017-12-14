@@ -7,4 +7,6 @@ Getting started With QA Coverage
 
 - Requirements Module
 - Test Design Module
+- Test Execution Module
+
 
